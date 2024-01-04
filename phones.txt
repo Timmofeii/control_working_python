@@ -1,0 +1,4 @@
+0;tima;2131;412412
+1;Dasha;213;123
+10;tima;2131;412412
+11;new_name;new_number;new_group
